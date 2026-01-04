@@ -1,0 +1,7 @@
+edu\ucsd\todolist\TaskList.class
+edu\ucsd\todolist\Task.class
+module-info.class
+edu\ucsd\todolist\AppFrame.class
+edu\ucsd\todolist\Header.class
+edu\ucsd\todolist\App.class
+edu\ucsd\todolist\Footer.class
